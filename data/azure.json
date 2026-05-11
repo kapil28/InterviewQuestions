@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "question": "What is Azure App Service?",
+    "answer": "Azure App Service is a fully managed platform for building, deploying, and scaling web apps, mobile app backends, and RESTful APIs.",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "question": "What is the difference between IaaS, PaaS, and SaaS?",
+    "answer": "IaaS (Infrastructure as a Service) provides virtualized computing resources over the internet. PaaS (Platform as a Service) provides a platform for developers to build, run, and manage apps without managing infrastructure. SaaS (Software as a Service) delivers software applications over the internet.",
+    "order": 2
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "question": "What is LINQ?",
+    "answer": "LINQ (Language Integrated Query) is a set of features that extends powerful query capabilities to the language syntax of C# and Visual Basic.",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "question": "What is the difference between IEnumerable and IQueryable?",
+    "answer": "IEnumerable is suitable for querying data from in-memory collections like List, Array. IQueryable is suitable for querying data from out-memory (like remote database) and supports deferred execution with provider-specific optimizations.",
+    "order": 2
+  }
+]

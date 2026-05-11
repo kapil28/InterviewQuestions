@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "question": "What is the difference between value types and reference types in C#?",
+    "answer": "Value types (like int, bool, struct) store the data directly in the memory where the variable is declared (usually the stack). Reference types (like class, string, object) store a reference to the data's memory address (the actual data is stored on the heap).",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "question": "What is 'boxing' and 'unboxing'?",
+    "answer": "Boxing is the process of converting a value type to the type 'object' or any interface type implemented by this value type. Unboxing is the explicit conversion from the type 'object' to a value type or from an interface type to a value type that implements the interface.",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "question": "What is the purpose of the 'using' statement in C#?",
+    "answer": "The 'using' statement provides a convenient way to ensure that IDisposable objects are disposed of correctly when they are no longer needed, ensuring resources like file handles or database connections are released.",
+    "order": 3
+  }
+]

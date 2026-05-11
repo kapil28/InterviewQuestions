@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "question": "What is REST?",
+    "answer": "REST (Representational State Transfer) is an architectural style for designing networked applications. It uses HTTP requests to GET, PUT, POST, and DELETE data.",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "question": "What is the difference between POST and PUT?",
+    "answer": "POST is used to create a new resource on the server, while PUT is used to update an existing resource or create a resource if it doesn't exist at a specific URI (Idempotent).",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "question": "What are common HTTP status codes?",
+    "answer": "200 (OK), 201 (Created), 400 (Bad Request), 401 (Unauthorized), 404 (Not Found), 500 (Internal Server Error).",
+    "order": 3
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "question": "What is the difference between Clustered and Non-Clustered index?",
+    "answer": "A Clustered index determines the physical order of data in a table (only one per table). A Non-Clustered index stores the index separately from the data rows and contains pointers to the data (multiple allowed per table).",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "question": "What is a Stored Procedure?",
+    "answer": "A Stored Procedure is a prepared SQL code that you can save, so the code can be reused over and over again.",
+    "order": 2
+  }
+]
