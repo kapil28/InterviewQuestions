@@ -16,5 +16,11 @@
     "question": "What is the purpose of the 'using' statement in C#?",
     "answer": "The 'using' statement provides a convenient way to ensure that IDisposable objects are disposed of correctly when they are no longer needed, ensuring resources like file handles or database connections are released.",
     "order": 3
+  },
+  {
+    "id": 4,
+    "question": "Explain the different access modifiers in C#.",
+    "answer": "All types and type members in C# have an accessibility level that controls whether they can be used from other code. The six access modifiers are:\n1. public: Access is not restricted.\n2. private: Access is limited to the containing type.\n3. protected: Access is limited to the containing class or types derived from the containing class.\n4. internal: Access is limited to the current assembly.\n5. protected internal: Access is limited to the current assembly or types derived from the containing class.\n6. private protected: Access is limited to the containing class or types derived from the containing class within the current assembly.",
+    "order": 4
   }
 ]
